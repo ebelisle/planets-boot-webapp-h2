@@ -5,7 +5,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>planets-boot-webapp-h2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -22,7 +22,7 @@
 		<dependency>
 			<groupId>com.bellobjects.planets</groupId>
 			<artifactId>planets-dao-jpa</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 
